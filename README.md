@@ -1,1 +1,7 @@
-# Spyder
+- 👋 Hi, I’m Spyder
+- 👀 I’m interested in graphic design, vfx, coding and gaming
+- 🌱 I’m currently learning vfx and coding in C & python
+- 💞️ I’m looking to collaborate on multiple grounds such as coding and graphic design
+- 📫 How to reach me ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to learn new things regularly and interact with new people to establish connections
